@@ -1,5 +1,7 @@
 # vue-credence
 
+Check out the live version at https://danielcohen.dev/vue-credence/
+
 ## Project setup
 ```
 yarn install
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
